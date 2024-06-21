@@ -1,5 +1,5 @@
 # Problem Statement
-Analyzing sensor datas and past maintenance history of heavy  machinary to schedule maintenance to avoid break down
+Analyzing sensor data and past maintenance history of heavy  machinery to schedule maintenance to avoid break down
 ## Input Parameters to build the ML model-
 ### 1.Torque
 ### 2.Speed
